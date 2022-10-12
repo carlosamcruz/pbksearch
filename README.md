@@ -1,4 +1,7 @@
 "# pbksearch" 
+
+Este projeto executa buscas por colisões na curva elíptica secp256k1
+
 Para compilar o projeto é preciso colocar a biblioteca boost na pasta include do MinGW, para o uso de Big Integers
 
 O código está configurado para ler 20 arquivos de chaves com nomes especificos, que são definidos manualmente no código e devem estar na mesma pasta do arquivo executável.
