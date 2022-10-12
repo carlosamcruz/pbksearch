@@ -6,8 +6,7 @@ Se quiser complilar com mais ou menos chaves é só alterar as seguintes porçõ
 
           const int nOfBPBKFiles = 20;
           
-          
-       		std::string fileNames[nOfBPBKFiles];
+          std::string fileNames[nOfBPBKFiles];
           fileNames[0] = "PBK01_32kKEYS.txt";
           fileNames[1] = "PBK02_32kKEYS.txt";
           fileNames[2] = "PBK03_32kKEYS.txt";
