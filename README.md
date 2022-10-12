@@ -1,7 +1,7 @@
 "# pbksearch" 
 Para compilar o projeto é preciso colocar a biblioteca boost na pasta include do MinGW, para o uso de Big Integers
 
-O código está configurado para ler 20 arquivos de chaves com nomes especificos, que são definidos manualmente no código.
+O código está configurado para ler 20 arquivos de chaves com nomes especificos, que são definidos manualmente no código e devem estar na mesma pasta do arquivo executável.
 Se quiser complilar com mais ou menos chaves é só alterar as seguintes porções do código:
 
           const int nOfBPBKFiles = 20;
